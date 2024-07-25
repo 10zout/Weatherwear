@@ -1,0 +1,66 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vite build output
+dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# NPM local environment files
+.npm/
+.npmrc
+
+# Yarn
+.pnp.*
+.yarn*
+
+# Parcel cache
+.cache/
+
+# VSCode files
+.vscode/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore build output
+build/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore temporary files
+tmp/
+temp/
+
+# Ignore misc
+.sass-cache/
+connect.lock
+coverage/
+lib-cov/
+npm-debug.log*
+.yarn-integrity
